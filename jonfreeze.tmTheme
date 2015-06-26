@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>jonFreeze</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -18,15 +18,15 @@
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#f4f2d9</string>
+				<string>#0771fb</string>
 				<key>selection</key>
-				<string>#49483E</string>
+				<string>#748fb3</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>selectionBorder</key>
-				<string>#222218</string>
+				<string>#37567e</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
 
@@ -52,7 +52,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715E</string>
+				<string>#98c2f8</string>
 			</dict>
 		</dict>
 		<dict>
